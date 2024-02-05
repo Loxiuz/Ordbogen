@@ -1,3 +1,7 @@
+*.xml
+*.iml
+data/
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -28,6 +32,3 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.xml
-.iml
-Data/
